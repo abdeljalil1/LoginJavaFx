@@ -5,4 +5,4 @@ avec javafx login view
  
 Git update from local
 
-add branch
+add branch 1.0
